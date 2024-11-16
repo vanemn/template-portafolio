@@ -1,4 +1,5 @@
-const githubUsername = "TU_USUARIO_DE_GITHUB";
+// const githubUsername = "TU_USUARIO_DE_GITHUB";
+const githubUsername = "brayandiazc";
 const projectContainer = document.getElementById("project-cards");
 
 // Función para truncar texto
